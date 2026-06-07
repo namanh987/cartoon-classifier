@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.Python
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset — never commit raw images
+data/
+
+# Model outputs
+outputs/
+*.pth
+*.pt
+*.tar
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
