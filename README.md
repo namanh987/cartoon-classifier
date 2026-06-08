@@ -89,10 +89,14 @@ cartoon-classifier/
 ## Setup
 
 ```bash
-git clone https://github.com/yourusername/cartoon-classifier
+git clone https://github.com/namanh987/cartoon-classifier
 cd cartoon-classifier
 pip install -r requirements.txt
 ```
+
+**Dataset:** [Yellow Cartoon Characters Dataset](https://www.kaggle.com/datasets/namanhnguyenvu/yellow-cartoon-characters-dataset)
+
+Download and place the contents in the `data/` folder.
 
 Your data folder needs to look like this:
 
