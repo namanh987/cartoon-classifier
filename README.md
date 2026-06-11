@@ -1,5 +1,9 @@
 # Cartoon Character Classifier
 
+[![Live Demo](https://img.shields.io/badge/🤗%20Hugging%20Face-Live%20Demo-blue)](https://huggingface.co/spaces/programistnam/yellow)
+ 
+**→ [Try it live — no setup needed](https://huggingface.co/spaces/programistnam/yellow)**
+
 I built this to learn transfer learning properly — not just copy-paste a tutorial, but actually understand what's happening at each step. It classifies 5 cartoon characters using a pretrained ResNet-18 with a custom head trained from scratch.
 
 Ended up at **86% test accuracy** with roughly 100 images per class, which I'm happy with given the dataset size.
