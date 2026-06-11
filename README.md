@@ -1,8 +1,10 @@
 # Cartoon Character Classifier
 
-[![Live Demo](https://img.shields.io/badge/🤗%20Hugging%20Face-Live%20Demo-blue)](https://huggingface.co/spaces/programistnam/yellow)
- 
-**→ [Try it live — no setup needed](https://huggingface.co/spaces/programistnam/yellow)**
+## Live Demo
+
+Try it instantly at [huggingface.co/spaces/programistnam/yellow](https://huggingface.co/spaces/programistnam/yellow) — upload any image of Homer, Jake, Minion, Pikachu, or SpongeBob and get a prediction with a Grad-CAM heatmap showing what the model focused on.
+
+The demo runs on Hugging Face Spaces using `app.py` in the root of this repo.
 
 I built this to learn transfer learning properly — not just copy-paste a tutorial, but actually understand what's happening at each step. It classifies 5 cartoon characters using a pretrained ResNet-18 with a custom head trained from scratch.
 
